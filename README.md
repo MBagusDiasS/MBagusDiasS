@@ -8,10 +8,6 @@ If you wanna hire me
     <a href="mbagusdiass.ml">My Website</a>
     ·
     <a href=" m.bagus.dias.s1@gmail.com ">My Gmail</a>
-    ·
-    <a href="">FAQ</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
   </p>
 <!--   &ensp; contact me : \
     &emsp; web : mbagusdiass.ml \
