@@ -5,9 +5,9 @@ If you wanna hire me
 <p align="center">
     <a>contact me :</a>
     ·
-    <a href="mbagusdiass.ml">My Website</a>
+    <a href="http://mbagusdiass.ml">My Website</a>
     ·
-    <a href=" m.bagus.dias.s1@gmail.com ">My Gmail</a>
+    <a href=""mailto: m.bagus.dias.s1@gmail.com ">My Gmail</a>
   </p>
 <!--   &ensp; contact me : \
     &emsp; web : mbagusdiass.ml \
