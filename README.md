@@ -23,7 +23,7 @@ If you wanna hire me <a><br></a></p>
 
  # contact me 
  <p align="center">
-    <a href="http://mbagusdiass/github.io/portfolio"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=GoogleChrome" alt="Portfolio"></a>
+    <a href="http://mbagusdiass.github.io/portfolio"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=GoogleChrome" alt="Portfolio"></a>
     <a href=""mailto: m.bagus.dias.s1@gmail.com "><img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail" alt="gmail"></a>
   </p>
 <!--   &ensp; contact me : \
